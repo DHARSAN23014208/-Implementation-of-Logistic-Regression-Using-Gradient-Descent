@@ -95,8 +95,7 @@ plt.show()
 
 ## Output:
 ## Dataset:
-![image](https://user-images.githubusercontent.com/94165326/173839838-a3f6139f-7f8f-40de-9bfd-0fb118e8bbc9.png)
-
+![logistic regression using gradient descent](sam.png)
 ## Predicted y array:
 ![image](https://user-images.githubusercontent.com/94165326/173839943-dbe2963f-83c8-4e71-9030-67b728ca605e.png)
 
