@@ -92,8 +92,8 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
 
+![image](https://github.com/DHARSAN23014208/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/149365413/a34541f5-4471-4dba-be46-44a2b78b8879)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
